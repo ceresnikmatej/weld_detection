@@ -4,10 +4,10 @@ import os
 # --- NASTAVENIA ---
 # Cesta k modelu (ak je v zložke Bc, uprav cestu, napr: "Bc/best.pt")
 # Pre jednoduchosť predpokladám, že je v rovnakej zložke ako tento skript
-MODEL_PATH = "/best.pt"
+MODEL_PATH = "/Users/matejceresnik/PycharmProjects/weld_detection/best.pt"
 
 # Cesta k fotke, ktorú chceš otestovať
-IMAGE_PATH = "/good_weld.jpg"
+IMAGE_PATH = "/Users/matejceresnik/PycharmProjects/weld_detection/good_weld.jpg"
 
 
 def main():
